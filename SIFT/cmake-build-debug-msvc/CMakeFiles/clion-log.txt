@@ -1,0 +1,15 @@
+D:\vcpkg\downloads\tools\cmake-3.20.2-windows\cmake-3.20.2-windows-i386\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_TOOLCHAIN_FILE=D:/vcpkg/scripts/buildsystems/vcpkg.cmake -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - NMake Makefiles" E:\2021_spring\vst\Vision-Sensor-Tech-Homework\SIFT
+CMake Warning (dev) at D:/vcpkg/downloads/tools/cmake-3.20.2-windows/cmake-3.20.2-windows-i386/share/cmake-3.20/Modules/FindPackageHandleStandardArgs.cmake:438 (message):
+  The package name passed to `find_package_handle_standard_args` (OpenCV)
+  does not match the name of the calling package (opencv).  This can lead to
+  problems in calling code that expects `find_package` result variables
+  (e.g., `_FOUND`) to follow a certain pattern.
+Call Stack (most recent call first):
+  D:/vcpkg/installed/x86-windows/share/opencv/OpenCVConfig.cmake:354 (find_package_handle_standard_args)
+  D:/vcpkg/scripts/buildsystems/vcpkg.cmake:861 (_find_package)
+  CMakeLists.txt:9 (find_package)
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done
+-- Generating done
+-- Build files have been written to: E:/2021_spring/vst/Vision-Sensor-Tech-Homework/SIFT/cmake-build-debug-msvc

@@ -1,0 +1,28 @@
+Detecting C compiler ABI info failed to compile with the following output:
+Change Dir: E:/2021_spring/vst/Vision-Sensor-Tech-Homework/SIFT/cmake-build-debug-msvc/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake -f Makefile /nologo cmTC_d148a\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_d148a.dir\build.make /nologo -L                  CMakeFiles\cmTC_d148a.dir\build
+Building C object CMakeFiles/cmTC_d148a.dir/CMakeCCompilerABI.c.obj
+	D:\vcpkg\downloads\tools\cmake-3.20.2-windows\cmake-3.20.2-windows-i386\bin\cmake.exe -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_d148a.dir\CMakeCCompilerABI.c.obj.d --working-dir=E:\2021_spring\vst\Vision-Sensor-Tech-Homework\SIFT\cmake-build-debug-msvc\CMakeFiles\CMakeTmp --filter-prefix="" -- C:\PROGRA~2\MICROS~3\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @C:\Users\16337\AppData\Local\Temp\nm7746.tmp
+NMAKE : fatal error U1077: “D:\vcpkg\downloads\tools\cmake-3.20.2-windows\cmake-3.20.2-windows-i386\bin\cmake.exe”: 返回代码“0xc0000409”
+Stop.
+NMAKE : fatal error U1077: “"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\bin\HostX86\x86\nmake.exe"”: 返回代码“0x2”
+Stop.
+
+
+
+
+Detecting CXX compiler ABI info failed to compile with the following output:
+Change Dir: E:/2021_spring/vst/Vision-Sensor-Tech-Homework/SIFT/cmake-build-debug-msvc/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake -f Makefile /nologo cmTC_6c61b\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_6c61b.dir\build.make /nologo -L                  CMakeFiles\cmTC_6c61b.dir\build
+Building CXX object CMakeFiles/cmTC_6c61b.dir/CMakeCXXCompilerABI.cpp.obj
+	D:\vcpkg\downloads\tools\cmake-3.20.2-windows\cmake-3.20.2-windows-i386\bin\cmake.exe -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_6c61b.dir\CMakeCXXCompilerABI.cpp.obj.d --working-dir=E:\2021_spring\vst\Vision-Sensor-Tech-Homework\SIFT\cmake-build-debug-msvc\CMakeFiles\CMakeTmp --filter-prefix="" -- C:\PROGRA~2\MICROS~3\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @C:\Users\16337\AppData\Local\Temp\nm8020.tmp
+NMAKE : fatal error U1077: “D:\vcpkg\downloads\tools\cmake-3.20.2-windows\cmake-3.20.2-windows-i386\bin\cmake.exe”: 返回代码“0xc0000409”
+Stop.
+NMAKE : fatal error U1077: “"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\bin\HostX86\x86\nmake.exe"”: 返回代码“0x2”
+Stop.
+
+
+
+

@@ -1,0 +1,73 @@
+The system is: Windows - 10.0.19042 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.28.29910/bin/Hostx86/x86/cl.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+用于 x86 的 Microsoft (R) C/C++ 优化编译器 19.28.29915 版
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+CMakeCCompilerId.c
+Microsoft (R) Incremental Linker Version 14.28.29915.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:CMakeCCompilerId.exe 
+CMakeCCompilerId.obj 
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "E:/2021_spring/vst/Vision-Sensor-Tech-Homework/SIFT/cmake-build-debug-msvc/CMakeFiles/3.20.2/CompilerIdC/CMakeCCompilerId.exe"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.28.29910/bin/Hostx86/x86/cl.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+用于 x86 的 Microsoft (R) C/C++ 优化编译器 19.28.29915 版
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+CMakeCXXCompilerId.cpp
+Microsoft (R) Incremental Linker Version 14.28.29915.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:CMakeCXXCompilerId.exe 
+CMakeCXXCompilerId.obj 
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.exe"
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.obj"
+
+The CXX compiler identification is MSVC, found in "E:/2021_spring/vst/Vision-Sensor-Tech-Homework/SIFT/cmake-build-debug-msvc/CMakeFiles/3.20.2/CompilerIdCXX/CMakeCXXCompilerId.exe"
+
+Determining if the C compiler works passed with the following output:
+Change Dir: E:/2021_spring/vst/Vision-Sensor-Tech-Homework/SIFT/cmake-build-debug-msvc/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake -f Makefile /nologo cmTC_98386\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_98386.dir\build.make /nologo -L                  CMakeFiles\cmTC_98386.dir\build
+Building C object CMakeFiles/cmTC_98386.dir/testCCompiler.c.obj
+	D:\vcpkg\downloads\tools\cmake-3.20.2-windows\cmake-3.20.2-windows-i386\bin\cmake.exe -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_98386.dir\testCCompiler.c.obj.d --working-dir=E:\2021_spring\vst\Vision-Sensor-Tech-Homework\SIFT\cmake-build-debug-msvc\CMakeFiles\CMakeTmp --filter-prefix="" -- C:\PROGRA~2\MICROS~3\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @C:\Users\16337\AppData\Local\Temp\nm78CD.tmp
+Linking C executable cmTC_98386.exe
+	D:\vcpkg\downloads\tools\cmake-3.20.2-windows\cmake-3.20.2-windows-i386\bin\cmake.exe -E vs_link_exe --intdir=CMakeFiles\cmTC_98386.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\mt.exe --manifests -- C:\PROGRA~2\MICROS~3\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_98386.dir\objects1.rsp @C:\Users\16337\AppData\Local\Temp\nm795A.tmp
+	C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -noprofile -executionpolicy Bypass -file D:/vcpkg/scripts/buildsystems/msbuild/applocal.ps1 -targetBinary E:/2021_spring/vst/Vision-Sensor-Tech-Homework/SIFT/cmake-build-debug-msvc/CMakeFiles/CMakeTmp/cmTC_98386.exe -installedDir D:/vcpkg/installed/x86-windows/debug/bin -OutVariable out
+
+
+
+Determining if the CXX compiler works passed with the following output:
+Change Dir: E:/2021_spring/vst/Vision-Sensor-Tech-Homework/SIFT/cmake-build-debug-msvc/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake -f Makefile /nologo cmTC_ec3d1\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_ec3d1.dir\build.make /nologo -L                  CMakeFiles\cmTC_ec3d1.dir\build
+Building CXX object CMakeFiles/cmTC_ec3d1.dir/testCXXCompiler.cxx.obj
+	D:\vcpkg\downloads\tools\cmake-3.20.2-windows\cmake-3.20.2-windows-i386\bin\cmake.exe -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_ec3d1.dir\testCXXCompiler.cxx.obj.d --working-dir=E:\2021_spring\vst\Vision-Sensor-Tech-Homework\SIFT\cmake-build-debug-msvc\CMakeFiles\CMakeTmp --filter-prefix="" -- C:\PROGRA~2\MICROS~3\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @C:\Users\16337\AppData\Local\Temp\nm8148.tmp
+Linking CXX executable cmTC_ec3d1.exe
+	D:\vcpkg\downloads\tools\cmake-3.20.2-windows\cmake-3.20.2-windows-i386\bin\cmake.exe -E vs_link_exe --intdir=CMakeFiles\cmTC_ec3d1.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\mt.exe --manifests -- C:\PROGRA~2\MICROS~3\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_ec3d1.dir\objects1.rsp @C:\Users\16337\AppData\Local\Temp\nm81E6.tmp
+	C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -noprofile -executionpolicy Bypass -file D:/vcpkg/scripts/buildsystems/msbuild/applocal.ps1 -targetBinary E:/2021_spring/vst/Vision-Sensor-Tech-Homework/SIFT/cmake-build-debug-msvc/CMakeFiles/CMakeTmp/cmTC_ec3d1.exe -installedDir D:/vcpkg/installed/x86-windows/debug/bin -OutVariable out
+
+
+
