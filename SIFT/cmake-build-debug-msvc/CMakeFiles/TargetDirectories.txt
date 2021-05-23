@@ -1,3 +1,0 @@
-E:/2021_spring/vst/Vision-Sensor-Tech-Homework/SIFT/cmake-build-debug-msvc/CMakeFiles/SIFT.dir
-E:/2021_spring/vst/Vision-Sensor-Tech-Homework/SIFT/cmake-build-debug-msvc/CMakeFiles/edit_cache.dir
-E:/2021_spring/vst/Vision-Sensor-Tech-Homework/SIFT/cmake-build-debug-msvc/CMakeFiles/rebuild_cache.dir
