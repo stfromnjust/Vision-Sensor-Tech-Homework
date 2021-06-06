@@ -4,7 +4,7 @@ project(SIFT)
 set(CMAKE_CXX_STANDARD 14)
 
 add_executable(SIFT
-        test.cpp)
+        sift.cpp)
 
-find_package(opencv REQUIRED)
+find_package(OpenCV REQUIRED)
 target_link_libraries(SIFT ${OpenCV_LIBS})
